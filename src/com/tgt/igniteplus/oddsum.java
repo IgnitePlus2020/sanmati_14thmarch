@@ -1,4 +1,4 @@
-package oddsum;
+package com.tgt.igniteplus;
 
 import java.util.Scanner;
 

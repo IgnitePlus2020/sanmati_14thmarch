@@ -1,4 +1,4 @@
-package swap2;
+package com.tgt.igniteplus;
 
 import java.util.Scanner;
 

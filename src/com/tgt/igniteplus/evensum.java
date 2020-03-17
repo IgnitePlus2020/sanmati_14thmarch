@@ -1,4 +1,4 @@
-package evensum;
+package com.tgt.igniteplus;
 
 import java.util.Scanner;
 
